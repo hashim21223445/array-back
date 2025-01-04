@@ -35,7 +35,7 @@
   "devDependencies": {
     "isomorphic-assert": "^1.0.0",
     "jsdoc-to-markdown": "^7.1.0",
-    "rollup": "^2.64.0",
+    "rollup": "^4.28.1",
     "test-object-model": "^0.7.1",
     "test-runner": "^0.10.0"
   }
